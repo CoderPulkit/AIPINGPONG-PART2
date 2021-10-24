@@ -1,0 +1,22 @@
+body
+{
+background-color: red;
+}
+
+#copyright_footer{
+    background-color: white;
+    margin: 0px;
+    line-height: 20px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+ }
+ 
+ .modal-dialog{
+    width: 90%;
+ }
+ 
+ .instructionsImage{
+    display: inline-block;
+    width: 45%;
+ }
